@@ -1,10 +1,10 @@
 # Ez-Tunnel
 Easily expose your local nodejs servers to the web with no account or token required.
 
-# Requirements 
+## Requirements 
 This relies on Python 3's standard library. Python 3 and git are all that is needed. 
 
-# Usage 
+## Usage 
 - Clone this repository: 
 ```
 git clone https://github.com/cons0le7/Ez-Tunnel
