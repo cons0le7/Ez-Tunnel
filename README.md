@@ -11,8 +11,7 @@ git clone https://github.com/cons0le7/Ez-Tunnel
 ```
 - Copy `tunnel.py` into the same folder where your node server.js exists.
 - Execute with `python3 tunnel.py`
-- Set port to match your server.
-- This will check for any interfering process on the selected port, give the option to kill them, launch your node server and provide tunneling options.
+- Set port to match your server. This will check for any interfering process on the selected port, give the option to kill them, launch your node server and provide tunneling options.
 - Currently there are 2 services available: `serveo.net` and `localhost.run`
 - Link for public access to your server will appear in cyan & magenta making it easy to spot. localhost.run will print a QR code after the link but because this script uses multi-threading, the output is staggered so you won't be able to use it. 
 - If you have trouble connecting with one, try the other, downtime is to be expected.
