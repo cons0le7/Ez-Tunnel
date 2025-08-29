@@ -1,5 +1,5 @@
 # Ez-Tunnel
-Easily expose your local nodejs servers to the web with no account or token required.
+Easily expose your local nodejs servers to the web with no binary install, account or token required.
 
 ## Requirements 
 This relies on Python 3's standard library. Python 3 and git are all that is needed. 
